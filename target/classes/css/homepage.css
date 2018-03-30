@@ -1,0 +1,75 @@
+/* 
+    Created on : 07-Jan-2018, 00:11:46
+    Author     : Angelos
+*/
+body{
+
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
+    /* for chrome */
+    background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
+    color: white;
+
+}
+.navbar {
+    background:transparent;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: transparent !important;
+    color: #eeb300;
+}
+.nav>li>a {
+
+    color: #ffffff;
+}
+.navbar-brand{
+    color: #eeb300;
+}
+.navbar-brand:focus, .navbar-brand:hover {
+    text-decoration: none;
+    background-color: transparent !important;
+    color: #eeb300;
+}
+
+.btn-round-lg{
+    border-radius: 22.5px;
+    background-color: transparent !important;
+}
+
+.btn.outline {
+    background: none;
+    padding: 12px 22px;
+    border-radius: 22.5px;
+}
+.btn-primary.outline {
+    border: 2px solid #ffffff;
+    color: #ffffff;
+}
+.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+    color: #eeb300;
+    border-color: #eeb300;
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+    border-color: #eeb300;
+    color: #eeb300;
+    box-shadow: none;
+}
+.center-block {
+    float: none !important
+}
+.padded {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.form-control.long { 
+    width: 500px; 
+
+}
+
+
+

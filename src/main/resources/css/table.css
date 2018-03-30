@@ -1,0 +1,25 @@
+/* 
+    Created on : 06-Jan-2018, 01:45:13
+    Author     : Andreas
+*/
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 2px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #000000;
+
+}
+tr:nth-child(odd) {
+    background-color: #eeb300;
+
+}
