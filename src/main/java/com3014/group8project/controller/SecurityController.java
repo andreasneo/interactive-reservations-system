@@ -36,7 +36,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 /**
  *
- * @author Andreas
+ * @author Andreas Neokleous
  * This controller handles the Security requests - login, logout and unauthorized requests
  */
 @Controller

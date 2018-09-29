@@ -14,7 +14,7 @@ import org.springframework.web.servlet.DispatcherServlet;
 /**
  * In this java class the Spring Web framework is registered and initialised.
  * Our app is configured with only Java classes and not XML.
- * @author Andreas
+ * @author Andreas Neokleous
  */
 public class MainInitializer implements WebApplicationInitializer {
 

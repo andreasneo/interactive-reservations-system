@@ -4,7 +4,7 @@ import org.springframework.security.web.context.AbstractSecurityWebApplicationIn
 
 /**
  *
- * @author Andreas
+ * @author Andreas Neokleous
  * Initialising the spring web security framework
  */
 public class SecurityInitializer extends AbstractSecurityWebApplicationInitializer {

@@ -19,7 +19,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 /**
  *
- * @author Andreas
+ * @author Andreas Neokleous
  * In this class the web MVC configuration is set up with annotations.
  * It extends the base class WebMvcConfigurerAdapter and the needed methods are 
  * overriden

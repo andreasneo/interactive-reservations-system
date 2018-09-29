@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  *
- * @author Andreas
+ * @author Andreas Neokleous
  * This is the Controller which handles the requests of the User
  */
 @Controller

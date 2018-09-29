@@ -7,7 +7,7 @@ import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 
 /**
  *
- * @author Andreas
+ * @author Andreas Neokleous
  * This class is imported in RootConfig and WebConfig to set the application properties, 
  * taken from application.properties file
  */

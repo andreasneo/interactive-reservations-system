@@ -7,7 +7,7 @@ import org.springframework.stereotype.Controller;
 
 /**
  *
- * @author Andreas
+ * @author Andreas Neokleous
  * This class is used to register the Spring application in the AnnotationConfigWebApplicationContext (MainInitializer class)
  */
 @Configuration

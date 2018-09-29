@@ -13,7 +13,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 
 /**
  *
- * @author Andreas
+ * @author Andreas Neokleous
  * This class enables the Spring Web Security
  * Our app allows users to Sign in/out, and view the views they have access to.
  * The registered users are in th SQL database.

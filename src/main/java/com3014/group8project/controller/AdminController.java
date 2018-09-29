@@ -26,7 +26,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  *
- * @author Andreas
+ * @author Andreas Neokleous
  * This is the Controller which handles the requests of the Admin
  */
 @Controller

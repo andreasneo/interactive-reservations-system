@@ -7,7 +7,7 @@ package com3014.group8project.bean;
 
 /**
  *
- * @author Andreas
+ * @author Andreas Neokleous
  * This is the model of the User, which can log in
  */
 public class User {

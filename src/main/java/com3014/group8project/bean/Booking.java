@@ -7,7 +7,7 @@ package com3014.group8project.bean;
 
 /**
  *
- * @author Angelos, Andreas
+ * @author Andreas Neokleous, Andreas
  * Booking model.
  * When the user makes a booking, an instance of this class is created.
  */

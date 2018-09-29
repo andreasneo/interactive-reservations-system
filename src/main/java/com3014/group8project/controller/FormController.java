@@ -25,7 +25,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 /**
  *
- * @author Angelos
+ * @author Andreas Neokleous
  * This controller handles all requests produced during the booking form
  */
 @Controller
