@@ -16,4 +16,4 @@ XAMPP Control Panel v3.2.2.
 3. If necessary, change database port in application.properties located in \src\main\resources\config.
 
 # Collaboration
-This project was developed in collaboration with https://github.com/angelos-c
+The code of this project was developed in collaboration with https://github.com/angelos-c
