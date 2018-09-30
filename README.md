@@ -14,3 +14,6 @@ XAMPP Control Panel v3.2.2
 1. Start Apache and MySQL in XAMPP. Naviage to phpmyadmin and import booking.sql database located in \src\main\resources\config.
 2. Clone/Download prject and open it in NetBeans.
 3. If necessary, change database port in application.properties located in \src\main\resources\config.
+
+# Collaboration
+This project was implemented in collaboration with https://github.com/angelos-c
