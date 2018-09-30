@@ -6,9 +6,9 @@ The aim of the project is to develop a web-application that focuses on taking bo
 
 
 # Requirements
-Java SE Deveopment Kit (JDK) 8
-NetBeans 8.2
-XAMPP Control Panel v3.2.2
+Java SE Deveopment Kit (JDK) 8,
+NetBeans 8.2,
+XAMPP Control Panel v3.2.2.
 
 # Running the System
 1. Start Apache and MySQL in XAMPP. Naviage to phpmyadmin and import booking.sql database located in \src\main\resources\config.
