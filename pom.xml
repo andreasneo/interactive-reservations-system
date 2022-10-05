@@ -16,7 +16,7 @@
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>4.3.20ELEASE</spring.version>
-        <jackson.version>2.10.0.pr3</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
         <javax.version>7.0</javax.version>
         <jquery.version>3.2.1</jquery.version>
         <bootsrap.version>3.3.7</bootsrap.version>
